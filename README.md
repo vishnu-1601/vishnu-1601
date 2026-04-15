@@ -25,9 +25,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Vishnu_Shankar_Pandey/)  
 🔗 [My LeetCode Profile](https://leetcode.com/u/Vishnu_Shankar_Pandey/)
 
-- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-1601&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnu-1601&show_icons=true&theme=radical" />
+</p>
 
 ## 🔥 GitHub Streak:
 
@@ -35,7 +37,9 @@
 
 ## 💻 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-1601&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-1601&layout=compact&theme=radical" />
+</p>
 
 - ## 🌐 Connect with Me:
 
