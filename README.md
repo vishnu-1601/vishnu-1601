@@ -25,8 +25,7 @@
 
 ## 🧠 LeetCode:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Vishnu_Shankar_Pandey/)  
-🔗 [My LeetCode Profile](https://leetcode.com/u/Vishnu_Shankar_Pandey/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Vishnu_Shankar_Pandey/)
 
 ## 📊 GitHub Stats:
 
